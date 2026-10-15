@@ -90,3 +90,27 @@ Cloud generation may upload textures, masks, reference images, and prompts, and 
 Use the tool and its bundled components under their applicable license terms. The software is not code-signed. Check actual compatibility after game updates.
 
 详见 / See: [使用许可 / License](LICENSE.txt)、[第三方声明 / Third-Party Notice](THIRD_PARTY_NOTICES.md)、[免责声明 / Disclaimer](DISCLAIMER.md)、[隐私说明 / Privacy](PRIVACY.md)。
+
+## ❤️ 支持项目 / Support the Project
+
+如果这些工具对你有帮助，欢迎通过以下链接支持后续开发与维护。
+
+If you find these tools useful, you can support their continued development and maintenance here:
+
+- [Ko-fi](https://ko-fi.com/gamechao)
+- [爱发电 / Afdian](https://ifdian.net/a/Gamechao)
+
+## 🧰 社区与相关作品 / Community & Related Projects
+
+- [BD2ModManager — bruhnn](https://github.com/bruhnn/BD2ModManager)  
+  该工具的 MOD 预览功能比本项目的 ModStudio 更强大。如果你只需要 MOD 预览，可以优先使用 bruhnn 的工具。  
+  This tool offers more powerful MOD preview features than our ModStudio. If you only need MOD previews, consider using bruhnn's tool.
+
+- [BD2 Live2D Viewer — jelosus2](https://jelosus2.github.io/BD2-L2D-Viewer/)  
+  用于预览角色动画的网页工具。  
+  A web-based viewer for character animations.
+
+- [BDroid_X — Ark-Repoleved](https://github.com/Ark-Repoleved/BDroid_X)  
+  Android 平台的 Brown Dust II MOD 管理工具。  
+  A Brown Dust II MOD manager for Android.
+
