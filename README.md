@@ -14,11 +14,14 @@ This repository distributes binaries and documentation only; source code is not 
 - [配套工具 / Companion tool: BrownDustHelper v1.0.1 — 下载 / Download ZIP](https://github.com/gamechao/BrownDustHelper/releases/download/v1.0.1/BrownDustHelper.zip)
 - [SHA-256 校验和 / Checksums](https://github.com/gamechao/ModStudio/releases/download/v1.0.0/SHA256SUMS.txt)
 
-## 视频教程 / Video Tutorial
+## 视频教程 / Video Tutorials
 
-- [不懂画画也能改皮肤！棕色尘埃2 AI制作MOD手把手教程（哔哩哔哩）](https://www.bilibili.com/video/BV1GHJk6oEix/)
+- [哔哩哔哩 / Bilibili：不懂画画也能改皮肤！棕色尘埃2 AI制作MOD手把手教程](https://www.bilibili.com/video/BV1GHJk6oEix/)
+- [YouTube：棕色尘埃2 AI 制作 MOD 手把手教程 / Brown Dust 2 AI MOD Creation Tutorial](https://youtu.be/onkBb0XPOyA)
 
-Step-by-step video tutorial: create Brown Dust 2 skin MODs with AI, even without drawing skills. Watch on Bilibili using the link above.
+跟随视频学习两个工具的配合流程：游戏内导出素材，再导入 ModStudio 进行 AI 编辑和 MOD 制作。
+
+Follow the video tutorials to learn how to use both tools together: export assets in-game, then import them into ModStudio for AI editing and MOD creation.
 
 ## 安装与启动 / Installation and Startup
 
